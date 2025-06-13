@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>FAQ</title>
+
+<style>
+body{background-color:black; color:white;}
+h1{color:#89D1FF; font-family:Franklin Gothic Medium;}
+li{color:#C39846;}
+</style>
+
+</head>
+<body>
+
+<img src="pattern - Copy.png" width="542px" height="60px"><img style="padding-top:15px;" src="chale_amritsar.png" width="350px" height="75px"><img src="pattern.png" width="542px" height="60px">
+<br><br><br>
+<center>
+<label style="color:white; padding-top:600px; font-size:4em; font-family:Franklin Gothic Medium; color:white; text-align:center;">FAQs(Frequently Asked Questions)</label>
+<br>
+<img src="line.png" height="50px" width="700px">
+</center>
+
+
+<ul>
+<b><li>What are some of the most famous restaurants and eateries to explore in Amritsar? </li></b>
+If you are a foodie, Amritsar is the right place for you. Amritsar has many famous restaurants and eateries for you to explore, some of which are Kesar Da Dhaba, Bharwan Da Dhaba and Bade Bhai Ka Brothers Dhaba.<br><br><hr>
+
+<b><li>What are the things that you should not miss out on when you are in Amritsar?</li></b>
+If you are a true traveller, you should definitely not miss out on Golden Temple, Gobindgarh Fort, and Jallianwala Bagh when you are in Amritsar to make a funfilled vacay.<br><br><hr>
+
+<b><li>What are the activities you can explore during the peak season and moderate season in Amritsar?</li></b>
+In the peak season months October, November, December, January, February and March you will experience pleasant weather with sunny days and comparatively cold evenings wherein around moderate season i.e. July, August and September you will enjoy warm and humid days with mild to heavy rainfall accompanied by thunder and lightning. Whatever that suits your calendar, Amritsar awaits you for a good time.<br><br><hr>
+</ul>
+<center>
+<h2 align="center" style=color:#C39846>Ask your Question: </h2>
+<form>
+<textarea rows="6" cols="30"></textarea><br><br>
+<input type="submit" value="Submit">
+</form>
+</center>
+</body>
+</html>

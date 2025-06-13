@@ -1,0 +1,92 @@
+<html>
+<head>
+<style>
+body{background-color:black;}
+.t1tr{padding:10px;}
+</style>
+</head>
+<title>
+Best Time To Visit Amritsar
+</title>
+<body>
+<img src="pattern - Copy.png" width="542px" height="60px"><img style="padding-top:15px;" src="chale_amritsar.png" width="350px" height="75px"><img src="pattern.png" width="542px" height="60px">
+ 
+
+<center>
+<h1 style="color:white; padding-top:15px;">Best Time To Visit Amritsar</h1>
+</center>
+
+<div style="float:left;">
+<table>
+<tr>
+<td><p style="color:white;" ><b  style="font-size:2em; ">October-March</b></p><td>
+</tr>
+<tr>
+<td><ul>
+<li style="color:#00FF47; padding-top:1px; font-size:1.5em;">Peak Season</li>
+</ul></td>
+</tr>
+</table>
+<ul style="color:white; padding-left:60px">
+<li><b>What To Expect:</b> Pleasant weather with sunny days and comparatively cold evenings.</li>
+<li><b>Things You'll Love:</b> Exploring sightseeing attractions and attending various festivals.</li>
+</ul>
+<br><br>
+
+<table>
+<tr>
+<td><p style="color:white;" ><b  style="font-size:2em; ">June-July</b></p><td>
+</tr>
+<tr>
+<td><ul>
+<li style="color:Yellow; padding-top:1px; font-size:1.5em;">Moderate Season </li>
+</ul></td>
+</tr>
+</table>
+<ul style="color:white; padding-left:60px">
+<li><b>What To Expect:</b> Warm and humid days with mild to heavy rainfall accompanied by thunder and lightning.</li>
+<li><b>Things You'll Love:</b> Enjoying hot and delicious food from around the city.</li>
+</ul>
+<br><br>
+
+<table>
+<tr>
+<td><p style="color:white;" ><b  style="font-size:2em; ">April-June</b></p><td>
+</tr>
+<tr>
+<td><ul>
+<li style="color:Red; padding-top:1px; font-size:1.5em;">Off Season </li>
+</ul></td>
+</tr>
+</table>
+<ul style="color:white; padding-left:60px">
+<li><b>What To Expect:</b> Extremely hot and dry weather with temperatures reaching as high as 40°C.</li>
+<li><b>Things You'll Love:</b> Off-season discounts and deals.</li>
+</ul>
+</div>
+
+<div style="float:right; padding-right:100px" >
+<p style="color:white;" ><b  style="font-size:2em; ">Festivals And Events</b></p>
+<table class="t1" style="color:white;">
+<tr>
+<td><b>Diwali:</b>October/November</td>
+</tr>
+<tr>
+<td><b>Amritsar Sufi Festival:</b>February</td>
+</tr>
+<tr>
+<td><b>Baisakhi:</b>March/April</td>
+</tr>
+<tr>
+<td><b>Guru Purab:</b>November</td>
+</tr>
+<tr>
+<td><b>Hola Mohalla:</b>March</td>
+</tr>
+<tr>
+<td><b>Ram Tirth Fair:</b>November</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

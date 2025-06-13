@@ -1,0 +1,89 @@
+<html>
+<head>
+<style>
+table{width:100%;}
+th,td{border:1px solid white;
+	border-collapse:collapse;
+	border-radius: 20px;
+	padding:5px;}
+body{background-color:black;}
+img{border-radius: 25px;}
+</style>
+<title>Where to go</title>
+</head>
+<body> 
+<center>
+<img src="chale_amritsar.png">
+<h1 style="color:white; padding-top:15px;">Where to go?</h1>
+</center>
+<table>
+<tr style="color:white; font-size:1.5em;">
+<th style="width:100em">Golden Temple Near Amritsar</th>
+<th style="width:100em">Gobindgarh Fort</th>
+<th style="width:100em">Jallianwala Bagh</th>
+</tr>
+<tr">
+<td><img src="goldentemple.jpg" width=100% height=100%></td>
+<td><img src="gobindgarh.jpg" width=100% height=100%></td>
+<td><img src="jallianwalabagh.jpg" width=100% height=100%></td>
+</tr>
+<tr style="color:white; text-align:center;">
+<td style="text-align:left; padding-top:5px">Also known as Sri Harmandir Sahib, Golden Temple is considered to be the most important pilgrimage site amongst Sikhs and will leave you in awe with its jaw-dropping gold and marble edifice.
+<br><br>
+<p style="text-align:left; padding-left:5px"><b  style="font-size:2em; ">2-3 hours</b><br>
+Suggested time</p>
+</td>
+
+<td>Popularly known as ‘Bhangian da Killa’, this sprawling mud fortress served as a military preserve earlier and was declared as a historical monument by the Government of Punjab in 1964.</td>
+
+<td>Built in the honour of those who were wounded and martyred in the Jallianwala Massacre, this public garden houses a memorial structure, a museum, and a gallery to commemorate the tragic incident.</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table>
+<tr style="color:white; font-size:1.5em;">
+<th style="width:100em">Sri Durgiana Temple</th>
+<th style="width:100em">Partition Museum</th>
+<th style="width:100em">Hall Bazaar</th>
+</tr>
+<tr">
+<td><img src="durgiana.jpg" width=100% height=100%></td>
+<td><img src="partitionmeuseum.jpg" width=100% height=100%></td>
+<td><img src="hallbazar.jpg" width=100% height=100%></td>
+</tr>
+<tr style="color:white; text-align:center;">
+<td>Dedicated to Goddess Durga, this temple is popularly known as Sitla Mandir. Built in the middle of a lake, its architectural style is similar to the iconic Golden Temple.</td>
+
+<td>Located in the historic Town Hall, the museum was opened in August 2017 to commemorate the seventieth anniversary of India's partition and houses artefacts and collections narrating the story of partition.</td>
+
+<td>One of the oldest market complexes in the city, Hall Bazaar is located on the way to Golden Temple and is dotted with narrow lanes that sell everything from handicrafts to jewellery and home décor items.</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table>
+<tr style="color:white; font-size:1.5em;">
+<th style="width:100em">Ram Tirth Temple</th>
+<th style="width:100em">Attari-Wagah Border</th>
+<th style="width:100em">Bhatinda Fort</th>
+</tr>
+<tr">
+<td><img src="ramtirthtemple.jpg" width=100% height=100%></td>
+<td><img src="attariborder.jpg" width=100% height=100%></td>
+<td><img src="bhatindafort.jpg" width=100% height=100%></td>
+</tr>
+<tr style="color:white; text-align:center;">
+<td>Also known as the Bhagwan Valmiki Tirath Sthal, the temple is believed to be at the same spot that housed the hut where Goddess Sita gave birth to her sons, Luv and Kush.</td>
+
+<td>Popularly called Qila Mubarak, this centuries-old majestic fort is perched at a height of about 118 feet in Bathinda, about three hours away from Amritsar.</td>
+
+<td>Located about 40 minutes from the main city, Wagah Border serves as the demarcation between India and Pakistan and is visited by tourists in large numbers to witness the lowering of the flags ceremony.</td>
+</tr>
+</table>
+
+</body>
+</html>
+

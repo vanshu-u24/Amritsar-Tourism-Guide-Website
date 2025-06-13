@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+body{background-image: url('4.png');}
+*[href]{color:white;}
+ul{list-style-type:none;
+	overflow:hidden;
+	margin:1em;
+	padding-top:100px;
+	float:bottom;}
+li{float:left;
+	margin:10px 50px;
+	border: 1px solid #DFDFDF;
+	padding: 10px;
+	font-size:15px;}
+a:link{text-decoration:none;}
+</style>
+<title>chale Amritsar nu ?</title>
+</head>
+<body>
+<ul>
+<li><a href="where to go.html">Where to go</a></li>
+<li><a href="best time to visit.html">Best time to visit</a></li>
+<li><a href="">How to reach?</a></li>
+<li><a href="">Stay</a></li>
+<li><a href="">Foodie Hotspots</a></li>
+<li><a href="">FAQ</a></li>
+<li><a href="">Feedback</a></li>
+</ul>
+<hr>
+</body>
+</html>

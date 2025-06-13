@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Feedback Form</title>
+
+<style>
+body{background-color:black; color:white;}
+div {width: 400px;border: 5px solid white;padding: 50px;margin: 20px;}
+</style>
+
+</head>
+<center>
+<body>
+<img src="pattern - Copy.png" width="542px" height="60px"><img style="padding-top:15px;" src="chale_amritsar.png" width="350px" height="75px"><img src="pattern.png" width="542px" height="60px">
+<br><br><br>
+<center>
+<label style="color:white; padding-top:600px; font-size:4em; font-family:Franklin Gothic Medium; color:white; text-align:center;">Feedback form</label>
+<br>
+<img src="line.png" height="50px" width="700px">
+</center>
+
+<br><br>
+<img src="bboy.jpg" align="left">
+<img src="bgirl.jpg" align="right">
+<div>
+<form action="" method="POST" style="font-size: 25px">
+Name: <input type="text" name="name"><br><br>
+Email: <input type="email" name="email"><br><br>
+Comment:<br>
+<textarea rows="6" cols="40" name="feedback"></textarea><br><br>
+<input type="submit" value="Send Feedback">
+<input type="reset" value="Reset">
+</form>
+</div>
+</body>
+</center>
+</html>
